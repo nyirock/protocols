@@ -1,0 +1,5 @@
+“Headspace (0.1 mL) was removed anaerobically and injected into an Agilent 7890A GC 
+equipped with an electron capture detector (ECD) and an Agilent J&W CP-PoraPLOT Q column. 
+Carrier gas was 5% (v/v) methane 95% argon to enhance sensitivity of the ECD. 
+Areas under the peak were compared to areas of 
+standards with 0.1% (v/v), 0.5%, 1%, 2%, 5% and 10% nitrous oxide in the headspace”

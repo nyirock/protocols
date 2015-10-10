@@ -1,0 +1,9 @@
+Sample,Strain,Light,Medium,El_donor,El_accept
+A1,M. silvestris BL2,No,DAMS,Methane,Oxygen
+A2,M. silvestris BL2,No,DAMS,Methane,Oxygen
+A3,M. silvestris BL2,No,DAMS,Methane,Oxygen
+B1,M. silvestris BL2,Yes,DAMS,Methane,Oxygen
+C1,M. roseaT SV-97,No,NMS,Methane,Oxygen
+C2,M. roseaT SV-97,No,NMS,Methane,Oxygen
+C3,M. roseaT SV-97,No,NMS,Methane,Oxygen
+D1,M. roseaT SV-97,Yes,NMS,Methane,Oxygen
