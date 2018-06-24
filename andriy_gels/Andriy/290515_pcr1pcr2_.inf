@@ -1,0 +1,51 @@
+<ImageInfo fileversion="1.2">
+  <PrivateProfile>
+    <XmlConvertableProperty key="Acquire State">
+      <PrivateProfile>
+        <Property key="AECompensation" value="-0.125" />
+        <Property key="NegativeDisplay" value="False" />
+        <Property key="AECompUnderExposure" value="-1" />
+        <Property key="ChemiDisplayEnabled" value="False" />
+        <Property key="NoiseFilterEnabled" value="False" />
+        <Property key="LenseAperture" value="0" />
+        <Property key="ZoomROI" value="0, 0, 0, 0" />
+        <Property key="LenseFocus" value="0" />
+        <Property key="AutoExposeEnabled" value="False" />
+        <Property key="LightName" value="" />
+        <Property key="DRElevel" value="1" />
+        <Property key="AECompOverExposure" value="1.5" />
+        <Property key="Filter" value="0" />
+        <Property key="LenseZoom" value="0" />
+        <Property key="FlatCorrectionPerformed" value="False" />
+        <XmlConvertableProperty key="Sensitivity">
+          <PrivateProfile>
+            <Property key="Binning" value="1, 1" />
+            <Property key="Gain" value="1" />
+          </PrivateProfile>
+        </XmlConvertableProperty>
+        <Property key="ExposureTime" value="0" />
+        <Property key="AECompCustom" value="0" />
+        <Property key="AutoFocusEnabled" value="False" />
+        <Property key="FilterName" value="" />
+        <Property key="AECompensationIndex" value="0" />
+        <Property key="AECompNormalExposure" value="-0.14" />
+        <Property key="SaturationEnabled" value="False" />
+        <Property key="AutoLevelsEnabled" value="False" />
+        <Property key="ProtocolName" value="" />
+        <Property key="AuxLightMask" value="0" />
+        <Property key="LightMask" value="0" />
+        <Property key="CoolerTemperature" value="1000" />
+        <Property key="DarkmasterPerformed" value="False" />
+      </PrivateProfile>
+    </XmlConvertableProperty>
+    <XmlConvertableProperty key="ImageID">
+      <ImageID>
+        <MachineID>1</MachineID>
+        <ImageIdentity>1</ImageIdentity>
+        <CreationDateTime>5/29/2015 4:22:47 PM</CreationDateTime>
+        <AppVersion>Version: 1.2.1.0</AppVersion>
+        <ProductName>AlphaImager Mini</ProductName>
+      </ImageID>
+    </XmlConvertableProperty>
+  </PrivateProfile>
+</ImageInfo>

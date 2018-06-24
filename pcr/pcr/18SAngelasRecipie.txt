@@ -1,0 +1,15 @@
+Here are a recipe for master mix and cycling conditions for 18S:
+Reaction mixture with Pfu polymerase per 30ul reaction:
+water 22.23ul
+buffer 3ul 
+dNTPs 0.2ul of a 25uM solution
+forward primer 1.56ul of a 10uM solution
+reverse primer 1.56ul of a 10uM solution
+Pfu polymerase 0.25ul
+template DNA 1ul
+
+
+PCR conditions:
+95C for 5 minutes,10 cycles of touchdown PCR: 95C for 30s, 60C for 30s (decreasing at 0.5C/cycle), and 72C for 30s, followed by 30 cycles: 95C for 30s, 55C for 30s, and 72C for 30s, and 72C for 5 minutes. 
+Cheers,
+Angela.
